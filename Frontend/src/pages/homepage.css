@@ -1,0 +1,55 @@
+.home{
+    /* margin-top: 200px; */
+    display: flex;
+    background-image: linear-gradient(to right,white,  rgb(241, 204, 91),white);
+    
+}
+
+.home>img{
+    width: 50%;
+    height: 710px;
+    opacity: 0.6;
+    
+
+
+}
+
+.homeButtons{
+    width: 100%;
+    /* border: 2px solid red; */
+    
+}
+
+.homeButtons>img{
+    width: 400px;
+    height: 300px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.homeButtons>div{
+    /* border: 2px solid red; */
+    font-size: 20px;
+    /* padding: 10px 10px ; */
+    display: flex;
+    gap: 30px;
+    width: 60%;
+    margin: auto;
+    margin-top: 10%;
+    justify-content: center;
+}
+
+.homeButtons>p{
+    /* border: 1px solid red; */
+    text-align: right;
+    padding-right: 20px;
+    font-size: 25px;
+    color: white;
+    margin-top: 20px;
+}
+
+.player{
+    border: 1px solid white;
+    
+}
+
